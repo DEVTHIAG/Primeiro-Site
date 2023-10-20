@@ -62,13 +62,7 @@ Atualmente, a internet se tornou uma ferramenta indispensável no nosso dia a di
 </body>
 </html>
 
-echo "# Primeiro-Site1-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DEVTHIAG/Primeiro-Site1-.git
-git push -u origin main
+
 
 
 
